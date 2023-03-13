@@ -1,10 +1,16 @@
 ## React Babel Webpack, lint, prettier Setup From Scratch ##
 Step 1: Creating an git repo
+
 Step 2: Initializing a basic web project
+
 Step 3 : Adding npm
+
 Step 4: Adding babel
+
 Step 5: Adding webpack
+
 Step 6: Adding eslint and prettier
+
 -----------------------------------------
 Step 1: Creating an git repo
 >git init
@@ -78,5 +84,7 @@ Step 6: Adding eslint and prettier
  >npm run format
 
  ## Adding bootstrap stylefor application npm install bootstrap 
+ 
  import 'bootstrap/dist/css/bootstrap.min.css'
+
  ## npm install react-router-dom 
